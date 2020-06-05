@@ -2,9 +2,9 @@ package com.testAutomationCoach.eHerencia.doctores;
 
 public class ProfesionalDeSalud {
 
-    String nombre;
-    String profesion;
-
+    Proteced String nombre;
+    Protected String profesion;
+public ProfesionalDeSalud(String nombre. String profesion)
     public void tratarPaciente() {}
 
     public String getNombre() {

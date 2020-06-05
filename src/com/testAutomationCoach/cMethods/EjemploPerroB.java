@@ -1,8 +1,8 @@
 package com.testAutomationCoach.cMethods;
 
-import com.testAutomationCoach.aAbstraccion.Perro;
+//import com.testAutomationCoach.aAbstraccion.Perro;
 
-public class EjemploPerroB {
+/*public class EjemploPerroB {
     public static void main(String[] args) {
         PerroB marmaduke = new PerroB();
         marmaduke.tamanio = 60.1;
@@ -18,4 +18,4 @@ public class EjemploPerroB {
 
         pug.ladrar(10);
     }
-}
+}*/

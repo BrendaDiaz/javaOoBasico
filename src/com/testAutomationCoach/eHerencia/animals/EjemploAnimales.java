@@ -5,12 +5,12 @@ public class EjemploAnimales {
     public static void main(String[] args) {
         Animal ani = new Animal();
         ani.hacerRuido();
-        ani.dormir();
+        ani.comer();
         //etc
 
         Leon rey = new Leon();
         rey.hacerRuido();
-        rey.dormir();
+        rey.comer();
 
         //polyAnimal
         Animal chicoBestia = new Gato();

@@ -1,6 +1,6 @@
 package com.testAutomationCoach.aAbstraccion;
 
-public class Perro {
+/*public class Perro {
     //variables de instancia, tamano, raza, nombre
     public double tamanio;
     public String raza;
@@ -11,4 +11,4 @@ public class Perro {
     public void ladrar() {}
     public void correr() {}
     public void comer() {}
-}
+}*/

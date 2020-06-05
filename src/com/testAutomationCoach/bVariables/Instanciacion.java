@@ -1,6 +1,6 @@
 package com.testAutomationCoach.bVariables;
 
-import com.testAutomationCoach.aAbstraccion.Articulo;
+/*import com.testAutomationCoach.aAbstraccion.Articulo;
 import com.testAutomationCoach.aAbstraccion.Perro;
 
 public class Instanciacion {
@@ -23,4 +23,4 @@ public class Instanciacion {
         Articulo laptop = new Articulo();
         laptop.toString();
     }
-}
+}*/
